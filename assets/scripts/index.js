@@ -5,11 +5,11 @@ const btnEmail = document.querySelector("#email-button");
 const btnWebsite = document.querySelector("#web-button");
 
 btnGithub.addEventListener('click', () => {
-    window.open('https://github.com/pitanglabs', '_blank');
+    window.open('https://github.com/spartalisdigital', '_blank');
 });
 
 btnLinkedin.addEventListener('click', () => {
-    window.open('https://linkedin.com/in/', '_blank');
+    window.open('https://www.linkedin.com/in/matheusgspartalis/', '_blank');
 });
 
 btnTwitter.addEventListener('click', () => {
@@ -18,9 +18,9 @@ btnTwitter.addEventListener('click', () => {
 
 
 btnEmail.addEventListener('click', () => {
-    window.open('mailto:labs-l@pitang.com');
+    window.open('mailto:matheus@onmaq.com');
 });
 
 btnWebsite.addEventListener('click', () => {
-    window.open('https://www.pitang.com/', '_blank');
+    window.open('https://onmaq.com', '_blank');
 });
